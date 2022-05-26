@@ -11,9 +11,9 @@ How to use:
 
 1. Create a folder called `usermaps` inside of `SteamLibrary/steamapps/common/Call Of Duty Black Ops III/` (If there isn't already one there)
 
-2. Put index.js inside of your `SteamLibrary/steamappa/workshop/content/311210`
+2. Put index.js inside of your `SteamLibrary/steamapps/workshop/content/311210`
 
-3. Right click the folder (or press `shift + f4`) to open Konsole inside of the folder and run ``node index.js``
+3. Right click the folder (or press `shift + f4`) to open terminal inside of the folder and run ``node index.js`` (if you are not on KDE use another method of opening terminal in folder)
 
 4. Select all of the folders and move them to `SteamLibrary/steamapps/common/Call Of Duty Black Ops III/usermaps`
 
