@@ -9,12 +9,12 @@ You will know that it has worked if all the folders have now changed their names
 
 How to use: 
 
-1. Create a folder called `usermaps` inside of SteamLibrary/steamapps/common/Call Of Duty Black Ops III/ (If there isn't already one there)
+1. Create a folder called `usermaps` inside of `SteamLibrary/steamapps/common/Call Of Duty Black Ops III/` (If there isn't already one there)
 
-2. Put index.js inside of your SteamLibrary/steamappa/workshop/content/311210
+2. Put index.js inside of your `SteamLibrary/steamappa/workshop/content/311210`
 
-3. Right click the folder (or press shift + f4) to open Konsole inside of the folder and run ``node index.js``
+3. Right click the folder (or press `shift + f4`) to open Konsole inside of the folder and run ``node index.js``
 
-4. Select all of the folders and move them to SteamLibrary/steamapps/common/Call Of Duty Black Ops III/usermaps 
+4. Select all of the folders and move them to `SteamLibrary/steamapps/common/Call Of Duty Black Ops III/usermaps`
 
 5. Restart COD and enjoy 
