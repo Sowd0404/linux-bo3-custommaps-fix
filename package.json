@@ -1,0 +1,9 @@
+{
+  "name": "linux-bo3-custommaps-fix",
+  "version": "1.0.0",
+  "description": "A quick and automatic fix for custom maps on linux ",
+  "main": "index.js",
+  "author": "Sowd",
+  "license": "y",
+  "private": false
+}
