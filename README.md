@@ -1,5 +1,5 @@
 ## Black Ops 3 Fix (Custom Zombie Maps on Arch Linux / Manjaro)
-# Spoiler: This cannot fix the maps working on multiplayer (They will not)
+### Spoiler: This cannot fix the maps working on multiplayer (They will not)
 
 I'm unaware if this works on any other versions of linux, but let me know. 
 
