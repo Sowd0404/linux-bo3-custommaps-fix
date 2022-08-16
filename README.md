@@ -1,4 +1,4 @@
-<a href="https://steamcommunity.com/id/sowd/" target="_blank">![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)</a>
+<a href="https://steamcommunity.com/id/sowd/" target="_blank">![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)</a><a href="https://www.reddit.com/r/linux_gaming/comments/wq7u25/bo3_black_ops_3_zombies_custom_maps_automatic_fix/" target="_blank">![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)</a>
 
 ## Black Ops 3 Fix (Custom Zombie Maps on Arch Linux / Manjaro)
 ### Spoiler: This cannot fix the maps working on multiplayer (They will not)
