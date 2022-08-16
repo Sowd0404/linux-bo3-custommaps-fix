@@ -20,4 +20,4 @@ How to use:
 5. Restart COD and enjoy 
 
 
-<a href="https://steamcommunity.com/id/sowd/">![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)</a>
+<a href="https://steamcommunity.com/id/sowd/" target="_blank">![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)</a>
