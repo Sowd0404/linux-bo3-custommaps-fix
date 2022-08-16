@@ -18,3 +18,6 @@ How to use:
 4. Select all of the folders and move them to `SteamLibrary/steamapps/common/Call Of Duty Black Ops III/usermaps`
 
 5. Restart COD and enjoy 
+
+
+<a href="https://steamcommunity.com/id/sowd/">![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)</a>
