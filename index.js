@@ -6,7 +6,7 @@ fs.readdirSync(__dirname, "utf-8").filter((file) => path.extname(file) !== ".js"
     console.log(entry)
 
     if (!fs.existsSync(workshop)) return console.log("error");
-    const FolderName = JSON.parse(fs.readFileSync(workshop, "utf-8")).FolderName;
+    const { FolderName } = JSON.parse(fs.readFileSync(workshop, "utf-8"));
 
     fs.renameSync(joinedPath, path.join(__dirname, FolderName));
     if (!fs.existsSync(path.join(path.join(__dirname, FolderName), "zone"))) {
