@@ -1,3 +1,5 @@
+<a href="https://steamcommunity.com/id/sowd/" target="_blank">![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)</a>
+
 ## Black Ops 3 Fix (Custom Zombie Maps on Arch Linux / Manjaro)
 ### Spoiler: This cannot fix the maps working on multiplayer (They will not)
 
@@ -20,4 +22,4 @@ How to use:
 5. Restart COD and enjoy 
 
 
-<a href="https://steamcommunity.com/id/sowd/" target="_blank">![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)</a>
+
